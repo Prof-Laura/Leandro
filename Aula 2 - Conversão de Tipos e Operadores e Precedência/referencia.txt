@@ -1,0 +1,3 @@
+Link de um site referência para consultas:
+
+https://pythonacademy.com.br/blog/operadores-aritmeticos-e-logicos-em-python
