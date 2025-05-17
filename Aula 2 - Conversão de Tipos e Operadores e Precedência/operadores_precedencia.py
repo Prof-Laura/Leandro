@@ -105,7 +105,7 @@ y = 10
 print(x, y)
 
 print(x is y) # retorna False
-print(x == y)
+print(x == y) # retorna True
 
 # Use is para verificar a identidade do objeto
 # Use == para verificar valores
