@@ -1,0 +1,7 @@
+Estrutura de repetição:
+
+https://pythonacademy.com.br/blog/estruturas-de-repeticao
+
+Estruturas condicionais:
+
+https://pythonacademy.com.br/blog/estruturas-condicionais-no-python
