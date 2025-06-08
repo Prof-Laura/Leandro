@@ -1,0 +1,9 @@
+Referências sobre conjuntos:
+
+Link 1:
+
+https://hub.asimov.academy/tutorial/trabalhando-com-conjuntos-sets-e-seus-metodos-em-python/
+
+Link 2:
+
+https://hub.asimov.academy/tutorial/operacoes-com-conjuntos-em-python-um-guia-para-iniciantes/

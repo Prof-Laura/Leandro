@@ -1,0 +1,9 @@
+Referências sobre tuplas:
+
+Link 1:
+
+https://www.alura.com.br/artigos/conhecendo-as-tuplas-no-python?srsltid=AfmBOoolgcH5HAI1quPECrvZOAWrAUfCu94NqL2ugi5wHYKS_ErdMors
+
+Link 2:
+
+https://www.devmedia.com.br/colecoes-no-python-listas-tuplas-e-dicionarios/40678  
