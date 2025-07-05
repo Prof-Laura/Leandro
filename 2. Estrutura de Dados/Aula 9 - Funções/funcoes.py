@@ -70,3 +70,19 @@ def criar_carro(marca, modelo, ano, /, *, placa, motor, combustivel):
     print(marca, modelo, ano, placa, motor, combustivel)
 
 criar_carro("Fiat", "Palio", 1999, placa="ABC-1234", motor="1.0", combustivel="Gasolina")
+
+# Objetos de primeira classe
+
+# Atribuir a uma variável
+# Passar como argumento para outra função
+# Retornar de uma função (closures)
+# Armazenar em estruturas de dados (listas, conjunots, tuplas....)
+
+def somar(a, b):
+    return a+b
+
+def exibir_resultados(a, b, funcao):
+    resultado = funcao(a, b)
+    print(f'O resultado da operação {a} + {b} = {resultado}')
+
+exibir_resultados(10, 10, somar)
